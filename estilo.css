@@ -1,0 +1,148 @@
+#Principal{
+    width: 900px;
+    height: auto px; overflow: hidden;
+    border: 0px solid black;
+    margin: auto;
+}
+
+header{
+    widows: 900px;
+    height: 100px;
+    border: 0px solid #000000 ;
+}
+
+#logo{
+    width: 200px;
+    height: 100px;
+    border: 0px solid black ;
+    float:left;
+}
+
+#titulo{
+    font-size: 32px;
+    margin-top: 5px;
+}
+
+#Sub-titulo{
+    font-size: 14 px;
+    margin-top: 13px;
+}
+
+.menu{
+    width: 150px ;
+    height: 40px;
+    border: 1px solid #cccccc;
+    float: right ;
+    margin-top: 40px;
+    background-color: blue;
+}
+
+.menu ul{}
+
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+
+.menu ul li a{
+   text-decoration: none ; 
+   padding: 2px 2px;
+   border: 0px solid #cccccc ;
+   color: #ffffff;
+}
+
+.menu ul li a:hover{
+    background: #ffffff;
+    color: #006699;
+}
+#slide{
+    margin-top: -2px;
+    width: 900px;
+    height:350px ;
+}
+
+#categorias{
+    width: 900px;
+    height: auto ;overflow: hidden;
+    border: 0px solid black;
+    margin-top: 15px ;
+    text-align: center;
+}
+
+.uno{
+    width: 285px;
+    height:auto ;overflow: hidden;
+    border: 1px solid #cccccc;
+    float: left;
+    padding: 2px;
+    color: #4682b4
+}
+
+.parrafo{
+    color: #707070;
+    text-align: justify;
+    
+}
+.dos{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.leer-mas{
+    text-decoration: none;
+    border: 0px solid #006699;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.leer-mas:hover{
+    background-color: cornflowerblue;
+    color: whitesmoke
+    
+}
+
+#info{
+    width: 900px;
+    height: auto; overflow: hidden;
+    border:0px solid gray;
+    float: left;
+    margin-top: 10px;
+}
+
+#izq{
+    width: 800px;
+    height: auto; overflow: hidden;
+    border: 1px solid #cccccc;
+    float:left;
+    padding: 5px; color: #468284;
+    text-align: justify ;
+}
+
+.parrafo-1{
+    text-align: right;
+    float: right;
+}
+
+.imagen{
+    margin-right: 7px;
+    margin-bottom: 7px;
+}
+#dere{
+    width: 900px;
+    height: auto; overflow: hidden;
+    border: 1px solid #cccccc;
+    float: right;
+    color:
+}
+
+footer{
+    width:900px ;
+    height: 100px;
+    text-align: center;
+}
+
+#footer p{
+    width: 300px;
+    text-align: center;
+
+}
+
